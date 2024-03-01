@@ -1,2 +1,7 @@
 # internathaus
-intern at hasu websites
+intern at haus websites
+
+
+Front-End: React Js
+Back-End: GIN Golang
+Database: Postgresql
